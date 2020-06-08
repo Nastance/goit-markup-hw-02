@@ -112,9 +112,6 @@ body {
   font-weight: bold;
   font-size: 16px;
   line-height: 1.87;
-  display: flex;
-  align-items: center;
-  text-align: center;
 }
 
 /* Features  */
@@ -245,6 +242,7 @@ footer {
 button {
   color: var(--primary-white-color);
   background-color: var(--accent-color);
+  font-family: inherit;
   font-weight: bold;
   font-size: 16px;
   line-height: 1.87;
